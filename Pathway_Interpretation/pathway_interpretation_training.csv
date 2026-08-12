@@ -1,0 +1,7 @@
+Pathway,Significant_Hits,Hit_Genes,Pathway_Gene_Count
+TNF/NF-kB inflammatory signaling,3,"CCL2, CXCL8, TNF",5
+PI3K-AKT-mTOR signaling,2,"EGFR, PTEN",6
+MAPK signaling,2,"EGFR, JUN",5
+ECM remodeling,2,"MMP9, VIM",4
+JAK-STAT signaling,1,IL6,6
+HIF-1 signaling,1,VEGFA,5
